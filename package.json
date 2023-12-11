@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@koa/cors": "^3.0.0",
+    "@koa/cors": "^5.0.0",
     "@koa/router": "^8.0.8",
     "koa": "^2.11.0",
     "koa-body": "^4.1.1",
